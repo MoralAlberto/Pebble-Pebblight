@@ -1,0 +1,833 @@
+Archive member included because of file (symbol)
+
+/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                              src/Pebblight.c.8.o (app_event_loop)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .bss           0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .init          0x0000000000000000        0x4 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .fini          0x0000000000000000        0x4 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .text          0x0000000000000000       0xc8 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .bss           0x0000000000000000       0x1c /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .text          0x0000000000000000        0x0 src/Pebblight.c.8.o
+ .bss           0x0000000000000000        0x0 src/Pebblight.c.8.o
+ .text          0x0000000000000000        0x0 appinfo.auto.c.8.o
+ .bss           0x0000000000000000        0x0 appinfo.auto.c.8.o
+ .bss           0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_data_service_subscribe__deprecated
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_data_service_unsubscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_service_peek
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_service_set_samples_per_update
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_service_set_sampling_rate
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_tap_service_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_tap_service_unsubscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_add_to_window
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_clear_icon
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_get_layer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_remove_from_window
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_set_background_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_set_click_config_provider
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_set_context
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.action_bar_layer_set_icon
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_get_context
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_is_scheduled
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_schedule
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_set_curve
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_set_delay
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_set_duration
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_set_handlers
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_set_implementation
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_unschedule
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.animation_unschedule_all
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_comm_get_sniff_interval
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_comm_set_sniff_interval
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_message_deregister_callbacks
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_sync_deinit
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_sync_get
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_sync_init
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_sync_set
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_timer_cancel
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_timer_register
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_timer_reschedule
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.atan2_lookup
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.atoi     0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.atol     0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.battery_state_service_peek
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.battery_state_service_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.battery_state_service_unsubscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.bitmap_layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.bitmap_layer_set_background_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.bitmap_layer_set_compositing_mode
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.bluetooth_connection_service_peek
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.bluetooth_connection_service_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.bluetooth_connection_service_unsubscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.click_number_of_clicks_counted
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.click_recognizer_get_button_id
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.clock_copy_time_string
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.clock_is_24h_style
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.cos_lookup
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.data_logging_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.data_logging_finish
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.data_logging_log
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_calc_buffer_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_calc_buffer_size_from_tuplets
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_merge
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_read_begin_from_buffer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_read_first
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_read_next
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_serialize_tuplets
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_serialize_tuplets_to_buffer__deprecated
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_serialize_tuplets_to_buffer_with_iter
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_begin
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_cstring
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_end
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_int
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_int16
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_int32
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_int8
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_uint16
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_uint32
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_write_uint8
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.fonts_load_custom_font
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.fonts_unload_custom_font
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.free     0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gbitmap_create_as_sub_bitmap
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gbitmap_create_with_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gbitmap_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gmtime   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gpath_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gpath_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gpath_draw_filled
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gpath_draw_outline
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gpath_move_to
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gpath_rotate_to
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gpoint_equal
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_context_set_compositing_mode
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_context_set_fill_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_context_set_stroke_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_context_set_text_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_draw_bitmap_in_rect
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_draw_circle
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_draw_line
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_draw_pixel
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_draw_rect
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_draw_round_rect
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_fill_circle
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_fill_rect
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_text_layout_get_max_used_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_align
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_center_point
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_clip
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_contains_point
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_crop
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_equal
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_is_empty
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.grect_standardize
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.gsize_equal
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.inverter_layer_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.inverter_layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.inverter_layer_get_layer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_create_with_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_get_clips
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_get_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_get_frame
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_get_hidden
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_get_window
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_insert_above_sibling
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_insert_below_sibling
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_mark_dirty
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_remove_child_layers
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_remove_from_parent
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_set_bounds
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_set_clips
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_set_frame
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_set_hidden
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.layer_set_update_proc
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.light_enable
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.light_enable_interaction
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.localtime
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.malloc   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.memcpy   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.memmove  0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_cell_basic_draw
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_cell_basic_header_draw
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_cell_title_draw
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_index_compare
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_get_layer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_get_scroll_layer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_get_selected_index
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_reload_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_set_callbacks
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_set_click_config_onto_window
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_set_selected_index
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.menu_layer_set_selected_next
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_get_value
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_set_label
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_set_max
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_set_min
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_set_step_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.number_window_set_value
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_delete
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_exists
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_get_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_read_bool
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_read_data__deprecated
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_read_int
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_read_string__deprecated
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_write_bool
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_write_data__deprecated
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_write_int
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_write_string
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.property_animation_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.property_animation_create_layer_frame
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.property_animation_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.property_animation_update_gpoint
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.property_animation_update_grect
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.property_animation_update_int16
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.psleep   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rand     0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.resource_get_handle
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.resource_load
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.resource_load_byte_range
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.resource_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rot_bitmap_layer_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rot_bitmap_layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rot_bitmap_layer_increment_angle
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rot_bitmap_layer_set_angle
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rot_bitmap_layer_set_corner_clip_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rot_bitmap_set_compositing_mode
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.rot_bitmap_set_src_ic
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_add_child
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_get_content_offset
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_get_content_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_get_layer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_get_shadow_hidden
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_scroll_down_click_handler
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_scroll_up_click_handler
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_set_callbacks
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_set_click_config_onto_window
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_set_content_offset
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_set_content_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_set_context
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_set_frame
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.scroll_layer_set_shadow_hidden
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.simple_menu_layer_create
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.simple_menu_layer_destroy
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.simple_menu_layer_get_layer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.simple_menu_layer_get_selected_index
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.simple_menu_layer_set_selected_index
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.sin_lookup
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.snprintf
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.srand    0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strcat   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strcmp   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strcpy   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strftime
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strlen   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strncat  0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strncmp  0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.strncpy  0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.text_layer_get_content_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.text_layer_get_text
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.text_layer_set_background_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.text_layer_set_overflow_mode
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.text_layer_set_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.text_layer_set_text_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.tick_timer_service_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.tick_timer_service_unsubscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.time     0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.time_ms  0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.vibes_cancel
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.vibes_double_pulse
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.vibes_enqueue_custom_pattern
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.vibes_long_pulse
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.vibes_short_pulse
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_get_click_config_provider
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_get_fullscreen
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_is_loaded
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_set_background_color
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_set_click_config_provider_with_context
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_set_fullscreen
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_set_status_bar_icon
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_stack_contains_window
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_stack_get_top_window
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_stack_pop
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_stack_pop_all
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_stack_remove
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_focus_service_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_focus_service_unsubscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_get_user_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_set_user_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_message_get_context
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_message_inbox_size_maximum
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_message_outbox_size_maximum
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.app_message_set_context
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_long_click_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_multi_click_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_raw_click_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_set_click_context
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.window_single_repeating_click_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_draw_text
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_serialize_tuplets_to_buffer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_read_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_read_string
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.persist_write_data
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.dict_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.graphics_text_layout_get_content_size
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.simple_menu_layer_get_menu_layer
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.accel_data_service_subscribe
+                0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text.calloc   0x0000000000000000        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .text          0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .bss           0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .jcr           0x0000000000000000        0x4 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .text          0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .bss           0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .init          0x0000000000000000        0x8 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .fini          0x0000000000000000        0x8 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+APP              0x0000000000000000 0x0000000000006000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+LOAD /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+LOAD src/Pebblight.c.8.o
+LOAD appinfo.auto.c.8.o
+LOAD /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a
+START GROUP
+LOAD /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a
+LOAD /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+LOAD /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.header         0x0000000000000000       0x82
+ *(.pbl_header)
+ .pbl_header    0x0000000000000000       0x82 appinfo.auto.c.8.o
+                0x0000000000000000                __pbl_app_info
+
+.text           0x0000000000000084      0x4a7
+ *(.text)
+ .text          0x0000000000000084       0x14 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ *(.text.*)
+ .text.out_sent_handler
+                0x0000000000000098        0x2 src/Pebblight.c.8.o
+                0x0000000000000098                out_sent_handler
+ .text.out_failed_handler
+                0x000000000000009a        0x2 src/Pebblight.c.8.o
+                0x000000000000009a                out_failed_handler
+ .text.in_dropped_handler
+                0x000000000000009c        0x2 src/Pebblight.c.8.o
+                0x000000000000009c                in_dropped_handler
+ *fill*         0x000000000000009e        0x2 
+ .text.window_unload
+                0x00000000000000a0       0x10 src/Pebblight.c.8.o
+ .text.down_click_handler
+                0x00000000000000b0       0x18 src/Pebblight.c.8.o
+ .text.up_click_handler
+                0x00000000000000c8       0x18 src/Pebblight.c.8.o
+ .text.window_load
+                0x00000000000000e0       0xb8 src/Pebblight.c.8.o
+ .text.click_config_provider
+                0x0000000000000198       0x30 src/Pebblight.c.8.o
+ .text.select_click_handler
+                0x00000000000001c8       0x2c src/Pebblight.c.8.o
+ .text.in_received_handler
+                0x00000000000001f4       0x5c src/Pebblight.c.8.o
+                0x00000000000001f4                in_received_handler
+ .text.startup.main
+                0x0000000000000250       0xb8 src/Pebblight.c.8.o
+                0x0000000000000250                main
+ .text.app_event_loop
+                0x0000000000000308        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000308                app_event_loop
+ .text.app_log  0x0000000000000314        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000314                app_log
+ .text.app_message_open
+                0x0000000000000320        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000320                app_message_open
+ .text.bitmap_layer_create
+                0x000000000000032c        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x000000000000032c                bitmap_layer_create
+ .text.bitmap_layer_get_layer
+                0x0000000000000338        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000338                bitmap_layer_get_layer
+ .text.bitmap_layer_set_alignment
+                0x0000000000000344        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000344                bitmap_layer_set_alignment
+ .text.bitmap_layer_set_bitmap
+                0x0000000000000350        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000350                bitmap_layer_set_bitmap
+ .text.dict_find
+                0x000000000000035c        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x000000000000035c                dict_find
+ .text.dict_write_tuplet
+                0x0000000000000368        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000368                dict_write_tuplet
+ .text.fonts_get_system_font
+                0x0000000000000374        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000374                fonts_get_system_font
+ .text.gbitmap_create_with_resource
+                0x0000000000000380        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000380                gbitmap_create_with_resource
+ .text.layer_add_child
+                0x000000000000038c        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x000000000000038c                layer_add_child
+ .text.layer_get_bounds
+                0x0000000000000398        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000398                layer_get_bounds
+ .text.memset   0x00000000000003a4        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003a4                memset
+ .text.text_layer_create
+                0x00000000000003b0        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003b0                text_layer_create
+ .text.text_layer_destroy
+                0x00000000000003bc        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003bc                text_layer_destroy
+ .text.text_layer_get_layer
+                0x00000000000003c8        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003c8                text_layer_get_layer
+ .text.text_layer_set_font
+                0x00000000000003d4        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003d4                text_layer_set_font
+ .text.text_layer_set_text
+                0x00000000000003e0        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003e0                text_layer_set_text
+ .text.text_layer_set_text_alignment
+                0x00000000000003ec        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003ec                text_layer_set_text_alignment
+ .text.window_create
+                0x00000000000003f8        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x00000000000003f8                window_create
+ .text.window_destroy
+                0x0000000000000404        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000404                window_destroy
+ .text.window_get_root_layer
+                0x0000000000000410        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000410                window_get_root_layer
+ .text.window_set_click_config_provider
+                0x000000000000041c        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x000000000000041c                window_set_click_config_provider
+ .text.window_set_window_handlers
+                0x0000000000000428        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000428                window_set_window_handlers
+ .text.window_stack_push
+                0x0000000000000434        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000434                window_stack_push
+ .text.app_message_outbox_begin
+                0x0000000000000440        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000440                app_message_outbox_begin
+ .text.app_message_outbox_send
+                0x000000000000044c        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x000000000000044c                app_message_outbox_send
+ .text.app_message_register_inbox_dropped
+                0x0000000000000458        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000458                app_message_register_inbox_dropped
+ .text.app_message_register_inbox_received
+                0x0000000000000464        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000464                app_message_register_inbox_received
+ .text.app_message_register_outbox_failed
+                0x0000000000000470        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000470                app_message_register_outbox_failed
+ .text.app_message_register_outbox_sent
+                0x000000000000047c        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x000000000000047c                app_message_register_outbox_sent
+ .text.window_single_click_subscribe
+                0x0000000000000488        0xc /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+                0x0000000000000488                window_single_click_subscribe
+ *(.rodata)
+ .rodata        0x0000000000000494       0x10 src/Pebblight.c.8.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00000000000004a4       0x87 src/Pebblight.c.8.o
+
+.glue_7         0x000000000000052c        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x000000000000052c        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000052c        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x000000000000052c        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x000000000000052c        0x0
+ .iplt          0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.rel.dyn        0x000000000000052c        0x0
+ .rel.iplt      0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.data           0x000000000000052c       0x14
+ *(.data)
+ .data          0x000000000000052c        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .data          0x000000000000052c        0x4 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                0x000000000000052c                __dso_handle
+ .data          0x0000000000000530       0x10 src/Pebblight.c.8.o
+ .data          0x0000000000000540        0x0 appinfo.auto.c.8.o
+ .data          0x0000000000000540        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .data          0x0000000000000540        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .data          0x0000000000000540        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ *(.data.*)
+
+.igot.plt       0x0000000000000540        0x0
+ .igot.plt      0x0000000000000000        0x0 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+
+.bss            0x0000000000000540       0x10
+ *(.bss)
+ *(.bss.*)
+ .bss.image_layer
+                0x0000000000000540        0x4 src/Pebblight.c.8.o
+ .bss.text_layer
+                0x0000000000000544        0x4 src/Pebblight.c.8.o
+ .bss.image     0x0000000000000548        0x4 src/Pebblight.c.8.o
+ .bss.window    0x000000000000054c        0x4 src/Pebblight.c.8.o
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+ *(.eh_frame)
+OUTPUT(/Users/Moral/Documents/iOS/Apps Pebble/Pebblight/build/pebble-app.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x27
+ .ARM.attributes
+                0x0000000000000000       0x19 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .ARM.attributes
+                0x0000000000000019       0x29 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+ .ARM.attributes
+                0x0000000000000042       0x33 src/Pebblight.c.8.o
+ .ARM.attributes
+                0x0000000000000075       0x33 appinfo.auto.c.8.o
+ .ARM.attributes
+                0x00000000000000a8       0x21 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/lib/libpebble.a(tmp9Q2g01pebble.o)
+ .ARM.attributes
+                0x00000000000000c9       0x29 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .ARM.attributes
+                0x00000000000000f2       0x19 /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+
+.comment        0x0000000000000000       0x4e
+ .comment       0x0000000000000000       0x4e /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                                         0x4f (size before relaxing)
+ .comment       0x0000000000000000       0x4f src/Pebblight.c.8.o
+ .comment       0x0000000000000000       0x4f appinfo.auto.c.8.o
+ .comment       0x0000000000000000       0x4f /Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+
+.debug_info     0x0000000000000000     0x14ce
+ .debug_info    0x0000000000000000     0x11a6 src/Pebblight.c.8.o
+ .debug_info    0x00000000000011a6      0x328 appinfo.auto.c.8.o
+
+.debug_abbrev   0x0000000000000000      0x3f5
+ .debug_abbrev  0x0000000000000000      0x34a src/Pebblight.c.8.o
+ .debug_abbrev  0x000000000000034a       0xab appinfo.auto.c.8.o
+
+.debug_loc      0x0000000000000000      0x283
+ .debug_loc     0x0000000000000000      0x283 src/Pebblight.c.8.o
+
+.debug_aranges  0x0000000000000000       0x88
+ .debug_aranges
+                0x0000000000000000       0x70 src/Pebblight.c.8.o
+ .debug_aranges
+                0x0000000000000070       0x18 appinfo.auto.c.8.o
+
+.debug_ranges   0x0000000000000000       0x90
+ .debug_ranges  0x0000000000000000       0x90 src/Pebblight.c.8.o
+
+.debug_line     0x0000000000000000      0x378
+ .debug_line    0x0000000000000000      0x254 src/Pebblight.c.8.o
+ .debug_line    0x0000000000000254      0x124 appinfo.auto.c.8.o
+
+.debug_str      0x0000000000000000      0xbc1
+ .debug_str     0x0000000000000000      0xa6b src/Pebblight.c.8.o
+                                        0xb39 (size before relaxing)
+ .debug_str     0x0000000000000a6b      0x156 appinfo.auto.c.8.o
+                                        0x2a2 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x100
+ .debug_frame   0x0000000000000000      0x100 src/Pebblight.c.8.o

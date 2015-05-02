@@ -1,0 +1,8 @@
+argv = ['/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'E331A1CF-D917-47B0-8448-42555650934A', 'SSH_AUTH_SOCK': '/tmp/launch-54EMMJ/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'Moral', 'USER': 'Moral', 'HOME': '/Users/Moral', 'PATH': '/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/arm-cs-tools/bin:/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/bin:/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA2/bin:/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/bin:/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA2/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin', 'DISPLAY': '/tmp/launch-M0rRtl/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/wd/4qdzwf8n2tz93c9vzm7ksdrw0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'es_ES.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-w1981P/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', '__CF_USER_TEXT_ENCODING': '0x1F5:0:8', 'PWD': '/Users/Moral/Documents/iOS/Apps Pebble/Pebblight', '_': '/Users/Moral/pebble-dev/PebbleSDK-2.0-BETA4/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/Moral/Documents/iOS/Apps Pebble/Pebblight/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 8, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/Moral/Documents/iOS/Apps Pebble/Pebblight/build'
+run_dir = '/Users/Moral/Documents/iOS/Apps Pebble/Pebblight'
+top_dir = '/Users/Moral/Documents/iOS/Apps Pebble/Pebblight'
